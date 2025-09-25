@@ -37,7 +37,6 @@ Carte verso : **Réponse : Paris**
 ## 📸 Aperçu
 ![Aperçu flashcards](screenshot.png)
 
-*(Astuce : ajoute une capture d’écran de ta démo → nomme-la `screenshot.png` et place-la à la racine du repo pour que ça s’affiche ici)*
 
 ---
 
